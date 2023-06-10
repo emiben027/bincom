@@ -1,0 +1,32 @@
+h1, h3 {
+   color: #fffff9;
+    }
+
+body {
+  background-color: #fcc203;
+  text-align: center;
+  font-family: sanserif;
+}
+
+.bright{
+  color: blue;
+}
+.highlight{
+  background-color: #ffff;
+}
+.highlight:hover{
+  color:green;
+}
+
+header{
+  background-image: url("/bincom/images/img6.png");
+  image-resolution: 100%;
+}
+
+footer {
+  background-color: grey;
+}
+
+img {
+  max-width: 150px
+}
